@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hw_2_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tv_zero">0</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="next_fragment_button">Go to next Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="resulFromFragment">0</string>
+</resources>
